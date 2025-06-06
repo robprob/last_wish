@@ -10,7 +10,7 @@ class Player:
         self.taken_strength = 0
         self.eye = ''
         self.creeping_darkness = 0
-        self.ascendant_atropy = False
+        self.ascendant_atrophy = False
         self.metaphysical_bleed = False
     
     def __str__(self):
