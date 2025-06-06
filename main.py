@@ -404,10 +404,10 @@ def riven(fireteam):
     
     print('You have been teleported to the Ascendant Realm')
     for i in range(len(fireteam)):
-        fireteam[i].ascendant_atropy = True
+        fireteam[i].ascendant_atrophy = True
     print('Journey to the Taken Strength node to cleanse Ascendant Atrophy')
     for i in range(len(fireteam)):
-        fireteam[i].ascendant_atropy = False
+        fireteam[i].ascendant_atrophy = False
     input()
     
     print('You have been teleported back to Riven')
